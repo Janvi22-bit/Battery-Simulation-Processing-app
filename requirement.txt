@@ -1,5 +1,6 @@
 streamlit
 pandas
+matplotlib
 numpy
 plotly
 streamlit-theme
@@ -7,5 +8,4 @@ altair
 openpyxl
 xlsxwriter
 scipy
-matplotlib
 streamlit-autorefresh
